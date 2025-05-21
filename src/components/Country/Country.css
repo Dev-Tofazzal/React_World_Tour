@@ -8,3 +8,8 @@
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
 }
+
+.visited{
+    background-color: rgb(105, 204, 207);
+    color: black;
+}
