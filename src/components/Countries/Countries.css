@@ -6,3 +6,9 @@
 *{
     list-style: none;
 }
+
+.flag_container img{
+    width: 150px;
+    height: 100px;
+    margin: 15px;
+}
